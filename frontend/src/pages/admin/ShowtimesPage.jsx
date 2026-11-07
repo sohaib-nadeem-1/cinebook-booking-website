@@ -1063,5 +1063,3 @@ export default function AdminShowtimesPage() {
   ); 
 }
 
-/// updating integration
-////////updating frontend integration
