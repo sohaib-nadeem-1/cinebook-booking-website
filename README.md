@@ -5,7 +5,7 @@ Movie ticket booking and cinema management application.
 ## Project structure
 
 - `frontend/` — React, Vite and Tailwind CSS
-- `Backend/` — Express API, PostgreSQL and 
+- `Backend/` — Express API, PostgreSQL and Drizzle ORM
 
 ## Backend setup
 
